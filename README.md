@@ -1,5 +1,8 @@
 # One Direction Data Visualization with Tableau
 
+## Visualization
+`https://public.tableau.com/app/profile/federico.paschetta/viz/1d_viz/Dashboard1`
+
 ## Overview
 This project dives deep in the world of One Direction boy-band. It includes data collection via Kaggle and web scraping. The goal of this project is to understand how Tableau works and to get some interesting insights about the band.
 
